@@ -1,0 +1,302 @@
+.call-1 {
+    background-color: cyan;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-2 {
+    background-color: black;
+    /*width: 200px;*/
+    height: 30%;
+}
+.call-3 {
+    background-color: blue;
+    /*width: 200px;*/
+    height: 20%;
+}
+/*.code-0 {
+    float: left;
+}
+.code-1 {
+    float: left;
+}
+body > div {
+    float: left;
+    background-color: antiquewhite;
+}*/
+body > div {
+    background-color: bisque;
+    float: left;
+    width: calc(100% /10);
+    height: 100%;
+    overflow: hidden;
+}
+.call-4 {
+    background-color: rgb(12, 18, 39);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-5 {
+    background-color: blue;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-6 {
+    background-color: cadetblue;
+    /*width: 200px;*/
+    height: 10%;
+} 
+.call-7 {
+    background-color: blue;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-8 {
+    background-color: cyan;
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-9 {
+    background-color: coral;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-10 {
+    background-color: black;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-11 {
+    background-color: crimson;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-12 {
+    background-color: blue;
+    /*width: 200px;*/
+    height: 50%;
+}
+.call-13 {
+    background-color: darkgoldenrod;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-14 {
+    background-color: cyan;
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-15 {
+    background-color: rgb(12, 65, 16);
+    /*width: 200px;*/
+    height: 80%;
+}
+.call-16 {
+    background-color: darkgoldenrod;
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-17 {
+    background-color: cyan;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-18 {
+    background-color:  rgb(12, 65, 16);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-19 {
+    background-color: gold;
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-20 {
+   background-color:  rgb(12, 65, 16);
+   /*width: 200px;*/
+   height: 10%;
+}
+.call-21 {
+    background-color: orange;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-22 {
+    background-color: darksalmon;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-23 {
+    background-color: darkslateblue;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-24 {
+        background-color: darkseagreen;
+        /*width: 200px;*/
+        height: 10%;
+}
+.call-25 {
+    background-color: darkgrey;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-26 {
+    background-color: cyan;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-27 {
+    background-color: rgb(12, 65, 16);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-28 {
+    background-color: gold;
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-29 {
+    background-color:  rgb(12, 65, 16);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-30 {
+    background-color: orange;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-31 {
+    background-color: firebrick;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-32 {
+    background-color: indianred;
+    /*width: 200px;*/
+    height: 100px;
+}
+.call-33 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 100%;
+}
+.call-34 {
+    background-color: cornsilk;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-35 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-36 {
+    background-color: cornsilk;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-37 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 50%;
+}
+.call-38 {
+    background-color: rgb(105, 69, 15);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-39 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-40 {
+    background-color: cornsilk;
+    /*width: 200px;*/
+    height: 30%;
+}
+.call-41 {
+    background-color: rgb(75, 46, 9);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-42 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-43 {
+    background-color: rgba(196, 92, 205, 0.658);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-44 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-45 {
+    background-color: rgba(70, 83, 45, 0.658);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-46 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-47 {
+    background-color: darkgrey;
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-48 {
+    background-color: rgb(75, 46, 9);
+    /*width: 200px;*/
+    height: 30%;
+}
+.call-49 {
+    background-color: rgba(196, 92, 205, 0.658);
+    /*width: 200px;*/
+    height: 30%;
+}
+.call-50 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-51 {
+    background-color: rgb(205, 179, 92);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-52 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-53 {
+    background-color:rgb(75, 46, 9);
+    /*width: 200px;*/
+    height: 20%;
+}
+.call-54 {
+    background-color: rgba(196, 92, 205, 0.658);
+    /*width: 200px;*/
+    height: 30%;
+}
+.call-55 {
+    background-color: rgb(148, 65, 65);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-56 {
+    background-color: rgba(196, 92, 205, 0.658);
+    /*width: 200px;*/
+    height: 10%;
+}
+.call-57 {
+    background-color: rgb(37, 19, 19);
+    /*width: 200px;*/
+    height: 30%;
+}
